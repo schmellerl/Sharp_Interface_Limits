@@ -11,4 +11,4 @@ in 2024 with the DOI [https://doi.org/10.1137/23M1546592](https://doi.org/10.113
 
 In the image below we show the central setup studied in this paper: A droplet relaxes from an initial state at t=0 to a relaxed state at t=1.15. The droplet (blue) is liquid with and the substrate (gray) is a neo-Hookean solid. During the evolution the sum of elastic and surface/interfacial energy decreases. The solution shown uses sharp interfaces.
 
-![Relaxed droplet at t=1.15](./media/droplet3D.png){width=75%}
+<img src="./media/droplet3D.png" width="75%">
